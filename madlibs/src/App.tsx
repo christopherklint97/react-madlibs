@@ -1,10 +1,8 @@
-import './App.css';
-import Madlib from './Madlib'
+import "./App.css";
+import Madlib from "./Madlib";
 
 function App() {
-  return (
-    <Madlib />
-  );
+  return <Madlib />;
 }
 
 export default App;
